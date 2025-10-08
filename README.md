@@ -60,4 +60,4 @@
 ---
 
 > **ИИ-ассистент для салона красоты** — это не просто чат-бот, а полноценный цифровой сотрудник, повышающий эффективность бизнеса и удовлетворённость клиентов.
-> 
+>![Иллюстрация к проекту](https://github.com/OlgaTs-25/AI-bot_hairsalon/blob/main/tg1.jpg?raw=true, https://github.com/OlgaTs-25/AI-bot_hairsalon/blob/main/tg2.jpg?raw=true)
